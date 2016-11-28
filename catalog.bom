@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Nginx Server
   description: A single Nginx server. Provides HTTP and reverse proxy services
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
